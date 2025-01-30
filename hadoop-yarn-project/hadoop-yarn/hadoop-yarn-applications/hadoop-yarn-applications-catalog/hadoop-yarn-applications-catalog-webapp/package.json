@@ -11,12 +11,12 @@
         "angular-mocks": "~1.6.4",
         "angular-route": "~1.6.4",
         "angular": "~1.6.4",
-        "bootstrap": "~3.3.7",
+        "bootstrap": "~5.3.3",
         "roboto-fontface": "0.10.0"
     },
     "devDependencies": {
         "requirejs": "^2.1.0",
-        "shelljs": "^0.2.6",
+        "shelljs": "^0.8.5",
         "apidoc": "0.17.7"
     },
     "resolutions": {
